@@ -1,0 +1,108 @@
+# Ignore data files in various formats
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.feather
+*.hdf
+*.pickle
+*.pkl
+*.db
+*.sql
+
+# Ignore raw and processed data directories
+data/
+raw_data/
+processed_data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment files
+venv/
+env/
+*.egg-info/
+
+# Ignore log files
+*.log
+
+# Ignore temporary and backup files
+*.bak
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore output plots if generated temporarily
+output/
+plots/
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Ignore Overleaf build files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.out
+*.log
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.json
+# Ignore configuration files that shouldn't be versioned
+.env
+.settings/
+
+# Ignore compiled executables and object files
+*.o
+*.so
+*.a
+*.out
+*.exe
+
+# Ignore tools-specific files
+.idea/
+.vscode/
+/UpWork
+*.gpickle
+*.gexf
+*.gml
+*.drawio
+scraper.py
+scraper.ipynb
+*.graphml
+*.sqlite
+/bigDataVenv
+.kaggle
+*.zip
+*.mp4
+/Lecture1
+/Lecture2
+/Lecture3
+/Lecture4
+/Lecture5
+/Lecture7
+/Lecture8
+
+*.txt
+*.yaml
+*.h5
