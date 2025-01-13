@@ -49,7 +49,6 @@ plots/
 *.jpg
 *.jpeg
 *.svg
-*.pdf
 
 # Ignore Overleaf build files
 *.aux
