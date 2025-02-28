@@ -1,9 +1,7 @@
 # Ignore data files in various formats
-*.csv
 *.tsv
 *.xlsx
 *.xls
-*.json
 *.parquet
 *.feather
 *.hdf
