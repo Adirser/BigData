@@ -11,7 +11,6 @@
 *.sql
 
 # Ignore raw and processed data directories
-data/
 raw_data/
 processed_data/
 
@@ -64,7 +63,6 @@ plots/
 *.nav
 *.snm
 *.vrb
-*.json
 # Ignore configuration files that shouldn't be versioned
 .env
 .settings/
